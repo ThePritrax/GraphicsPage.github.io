@@ -1,2 +1,2 @@
-# GraphicsPage.github.io
-My Graphic Design Portfolio.
+# Graphics Page
+This is my Graphics Design Portfolio. Hoping it reflects my passion and cretivity.
